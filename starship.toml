@@ -10,6 +10,7 @@ command_timeout = 2000
 
 # ==========================
 # Catppuccin Mocha Palette
+# https://github.com/catppuccin/starship/tree/main
 # ==========================
 [palettes.catppuccin_mocha]
 rosewater = "#f5e0dc"
