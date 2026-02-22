@@ -41,4 +41,6 @@ $env:STARSHIP_CONFIG = "C:\\path\\to\\starship.toml"
 Invoke-Expression (&starship init powershell)
 ```
 
+## Screenshot
+![Screenshot](/screenshots/screenshot-1.png)
 
